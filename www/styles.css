@@ -1,0 +1,36 @@
+.js-irs-0 .irs-max, .js-irs-0 .irs-min {
+  display: none;
+}
+
+.js-irs-0 .irs-single {
+  top: 40px;
+  background: #004f9f
+}
+
+.js-irs-0 .irs-bar  {
+  background: #004f9f
+}
+
+.above-tip {
+  display: inline-block;
+  vertical-align:top;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid white;
+}
+
+.below-tip {
+  display: inline-block;
+  vertical-align:top;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid white;
+}
+
+#gameMap {
+  
+}
